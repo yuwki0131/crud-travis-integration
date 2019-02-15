@@ -21,8 +21,6 @@ install:
 
 script:
   - alembic upgrade head
-  - echo "hello world"
-  - docker ps
-  - python3 dao.py
+  - python3 test.py
 
 # test
