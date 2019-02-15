@@ -24,6 +24,7 @@ before:
 
 script:
   - echo "hello world"
+  - docker ps
   - python3 dao.py
 
 # test
