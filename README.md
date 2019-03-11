@@ -1,6 +1,6 @@
 # travis内でdockerを起動させるテスト
 
-[![Build Status](https://travis-ci.org/yuwki0131/crud-travis-integration.svg?branch=master)](https://travis-ci.org/yuwki0131/crud-travis-integration)
+[![Build Status](https://travis-ci.org/yuwki0131/docker-travis-integration.svg?branch=master)](https://travis-ci.org/yuwki0131/docker-travis-integration)
 
 1. docker(db)を起動
    docker-compose up
